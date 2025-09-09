@@ -43,7 +43,7 @@ int main() {
 
     int limite_inferior, limite_superior, intentos_maximos;
 
-    cout << "Ingrese el inferior: ";
+    cout << "Ingrese el limite inferior: ";
     cin >> limite_inferior;
 
     cout << "Ingrese el limite superior: ";
@@ -113,3 +113,4 @@ int main() {
     
     
 }
+
