@@ -26,3 +26,10 @@ Aplicación basada en consola interactiva
 
 🚀 Cómo jugar
 
+👉 [Abrir el juego en OnlineGDB](https://onlinegdb.com/wrYMNaeqN)
+
+### Instrucciones
+1. Abre el enlace.  
+2. Haz clic en el botón **▶ Run** en la parte superior.  
+3. Usa la consola en la parte inferior para interactuar con el juego.  
+4. Ingresa el límite inferior, límite superior y la cantidad de intentos cuando lo solicite.
