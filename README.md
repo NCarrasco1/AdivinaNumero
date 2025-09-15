@@ -20,7 +20,7 @@ El objetivo es que el jugador adivine un número secreto generado aleatoriamente
 
 Lenguaje: C++
 
-Librerías estándar: <iostream>, <cstdlib>, <ctime>, <algorithm>
+Librerías estándar: iostream, cstdlib, ctime, algorithm
 
 Aplicación basada en consola interactiva
 
